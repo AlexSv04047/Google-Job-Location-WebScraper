@@ -26,4 +26,4 @@ asia_pacific02 = ["Philippines", "Australia", "South Korea", "Singapore", "Taiwa
 
 africa_middle_east = ["Ghana", "UAE", "Israel", "Turkey", "South Africa", "Nigeria"]
 
-aggregated_data = na + latam + eu01 + eu02 + asia_pacific01 + asia_pacific01 + africa_middle_east
+aggregated_data = na + latam + eu01 + eu02 + asia_pacific01 + asia_pacific02 + africa_middle_east
